@@ -1,0 +1,14 @@
+html body h1 {
+  font-family: sans-serif;
+  font-size: x-large;
+  font-weight: 900;
+}
+
+html body {
+  padding: 0px;
+  margin: 0px;
+  background-color: seashell;
+}
+html body h1 {
+  background-color: bisque;
+}/*# sourceMappingURL=main.css.map */
